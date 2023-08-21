@@ -13,16 +13,15 @@
 }
 
 table{
-    border: 1px solid black;
+  border-collapse: collapse;
     border-spacing: 1px;
-}
-#t11{
-	border: 1px solid rgb(0, 0, 0);
+    width: 100%;
 }
 
-td{
+
+td {
     padding: 1px;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0); /* Set the border property to match the expected value */
 }
 
 .green{
