@@ -9,16 +9,16 @@ h3{
 	width: 100%; 
 	margin: auto;
 }
-#t11{
+.left{
 	border:1px solid black ; 
 	padding: 1px;
 }
-#t12{
+.center{
 	border:1px solid black ; 
 	padding: 1px;
 	text-align:center;
 }
-#t13{
+.right{
 	border:1px solid black ; 
 	padding: 1px;
 	text-align:right;
